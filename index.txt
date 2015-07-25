@@ -1,0 +1,215 @@
+= Make a Comic Strip
+:revealjs_theme: beige
+:revealjs_progress: true
+:revealjs_slideNumber: true
+
+== Make a Comic Strip
+
+A one hour class on making comic strips
+
+with Ted Bergeron
+
+== Overview
+
+We'll cover how to make a comic strip in three steps.
+
+. Story
+. Art
+. Sharing 
+
+
+== Intro
+
+What is your favorite comic strip?
+
+
+== Parts of a Comic Strip
+
+* Panels
+* Word Balloons
+* Characters
+
+
+== Step 1: Story
+
+Before you start any art, you need the story.
+
+* Theme of your comic strip
+** Pick a setting and characters
+* Genre: Comedy, SciFi...
+
+TIP: Not a writer? Collaborate with one.
+
+== Writing Daily Comic Strip
+
+For example, let's focus on a funny comic strip.
+
+* Gag comic is most popular
+* Typically 3-4 panels
+* Get to the punchline
+ 
+
+== Story Start
+
+Use two characters to talk to each other.
+
+_Why did the chicken cross the road?_
+
+What could you do to make this funny?
+ 
+== Punchline
+
+To get away from the chicken taco stand.
+
+== Check Yourself
+
+*Is it funny?*
+
+* Try exaggerating
+
+
+== The Story
+
+. chicken crosses the road
+* Dog says: Why did the chicken cross the road?
+. we see a taco stand
+* Armadillo says: Duh! and points right
+. sign says: Special Chicken Tacos
+
+ 
+== Step 2: Art
+
+* Character Design
+** What do the characters look like?
+* Set Design
+** What does the scene look like?
+
+Sketch characters. Scout locations.
+
+
+== Storyboards
+
+* Make some quick thumbnail sketches of your story.
+* Choosing the moment
+** Close up, medium shot...
+** Action shot. Best if characters are doing something.
+** Funny reaction pose
+
+== Format
+
+Typically artists work at twice the printed size on Bristol board. 
+
+* 13" x 4" for original art
+** 4 panels each 3-1/4" wide 
+** 3 panels each 26 picas wide
+** 1/4" gutter size
+
+
+== Layout Paper
+
+We will work at the printed size on copy paper.
+
+Create an outline of the comic strip, drawing with a light touch.
+
+* 6-1/2" wide (leave about 1" on each side)
+* 2" tall
+
+[source,Ted]
+----
+Demo using your arm, pivot at elbow to draw straight lines
+----
+
+NOTE: Just use your best guess. It doesn't have to be perfect.
+
+== Penciling
+
+== Start with Words
+
+* The 1/3 is for your words
+* The bottom 2/3 is for your art.
+
+Typically the character that speaks first is on the left. Why?
+
+* Pencil in the words first, very lightly
+* Too many words? Go back to the writer
+
+TIP: Use a lettering guide
+
+== Word Balloons
+
+* You want your words to fit nicely inside the balloons
+* The balloon tail should point towards the character's mouth that is speaking
+
+== Drawing Characters
+
+* Expressions
+* Pose: have your characters doing something.
+
+== Inks
+
+When you are done, make it darker.
+
+* Heavier Pencil
+* Ink
+** permanent marker, brush or pen
+
+WARNING: Make sure you ink doesn't bleed through and ruin the table. Use a clipboard or cardboard.
+
+== Color?
+
+* Water Colors
+* Markers: Copic
+* Colored Pencils
+
+
+== Step 3: Sharing
+
+* Sharing is the 21st century way to publish
+
+== Social Media
+
+What app do you use to share with friends and family?
+
+* MySpace
+* Friendster
+* GeoCities
+
+_(early turn of the century sites)_
+
+== Snap or Scan
+
+Just use your phone to take a picture and share it on Facebook or Twitter
+
+TIP: You might want to get a flatbed scanner.
+
+== Newspaper Syndication
+
+King Features is one of the world's largest syndicates. 
+
+* Cover letter with your contact info.
+* 24 daily comic strips 
+** Put 3 or 4 strips per page
+* A character sheet
+
+Physically mail them to NY, wait 8 - 12 weeks .
+
+info: link:http://kingfeatures.com/contact-us/submission-guidelines/[King Features submission guidelines]
+
+== Web Comics
+
+* Come up with a schedule: M - W - F
+* Keep 6 weeks ahead
+* Be faithful to post a comic on schedule
+
+== Make Comics
+
+You can do it!
+
+== Questions
+
+I'll be around for a while, please stick 
+
+around and feel free to ask questions.
+
+Ted Bergeron
+
