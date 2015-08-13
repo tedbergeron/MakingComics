@@ -108,21 +108,21 @@ NOTE: Find 11 x 14 or 11 x 17 at any craft or art store.
 
 == Layout Paper
 
-We will work at the printed size on copy paper.
+We will work at 1-1/2 times the printed size on copy paper.
 
-Create an outline of the comic strip, drawing with a light touch.
+Create the container for the comic strip; draw lightly.
 
 * 9-3/4" wide (leave about 3/4" on each side)
 * 3" tall
+
 
 [source,Ted]
 ----
 Demo using your arm, pivot at elbow to draw straight lines
 ----
 
-NOTE: Just use your best guess. It doesn't have to be perfect.
+NOTE: Since we don't have a ruler, just use your best guess. It doesn't have to be perfect.
 
-== Penciling
 
 == Start with Words
 
@@ -140,6 +140,14 @@ TIP: Use a lettering guide
 
 * You want your words to fit nicely inside the balloons
 * The balloon tail should point towards the character's mouth that is speaking
+
+== Penciling
+
+Refer to the thumbnails
+
+Draw with a light touch
+
+Get the foundation right, before adding details
 
 == Drawing Characters
 
