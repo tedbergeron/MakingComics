@@ -1,13 +1,17 @@
-= Make a Comic Strip
+= Create a Comic Strip
 :revealjs_theme: beige
 :revealjs_progress: true
 :revealjs_slideNumber: true
 
-== Make a Comic Strip
+== Create a Comic Strip
+
+with Ted Bergeron
+
+image:images/CyborgInfiltrationThwarted_inks.png[]
 
 A one hour class on making comic strips
 
-with Ted Bergeron
+
 
 == Overview
 
@@ -29,13 +33,17 @@ What is your favorite comic strip?
 * Word Balloons
 * Characters
 
+image:images/SquirrelsVsCrows1crop.jpg[]
 
 == Step 1: Story
 
-Before you start any art, you need the story.
+Before you begin work on the art, you need the story.
+
+
+== Theme and Genre
 
 * Theme of your comic strip
-** Pick a setting and characters
+* Pick a setting and characters
 * Genre: Comedy, SciFi...
 
 TIP: Not a writer? Collaborate with one.
@@ -48,6 +56,9 @@ For example, let's focus on a funny comic strip.
 * Typically 3-4 panels
 * Get to the punchline
  
+== Example Hoot 'N' Whoo
+
+image:images/2005-07-17-accord-en.png[width=125%]
 
 == Story Start
 
@@ -59,7 +70,7 @@ What could you do to make this funny?
  
 == Punchline
 
-To get away from the chicken taco stand.
+To get away from the taco stand.
 
 == Check Yourself
 
@@ -70,21 +81,28 @@ To get away from the chicken taco stand.
 
 == The Story
 
-. chicken crosses the road
+. we see a chicken crossing the road
 * Dog says: Why did the chicken cross the road?
 . we see a taco stand
-* Armadillo says: Duh! and points right
+* Armadillo says: Duh! and points to the sign
 . sign says: Special Chicken Tacos
 
  
 == Step 2: Art
 
-* Character Design
-** What do the characters look like?
-* Set Design
-** What does the scene look like?
+* Character Design: _What do your characters look like?_
 
-Sketch characters. Scout locations.
+Sketch characters
+
+image:images/droid-pod-1.jpg[]
+
+== Scenes
+
+Set Design
+
+_What does the scene look like?_
+
+Scout locations.
 
 
 == Storyboards
@@ -129,51 +147,62 @@ NOTE: Since we don't have a ruler, just use your best guess. It doesn't have to 
 * The top 1/3 is for your words
 * The bottom 2/3 is for your art.
 
-Typically the character that speaks first is on the left. Why?
+Typically the character that speaks first is on the left. 
+
+image:images/FrodgerNoregreb.jpg[]
+
+== Lettering
+
+* Make your letters 1/8" high
+* Leave 1/16" leading
+
+TIP: Use a lettering guide
 
 * Pencil in the words first, very lightly
 * Too many words? Go back to the writer
 
-TIP: Use a lettering guide
+
 
 == Word Balloons
 
-* You want your words to fit nicely inside the balloons
-* The balloon tail should point towards the character's mouth that is speaking
+Words should fit nicely inside the balloons. Balloon tail points towards the character's mouth
+
+image:images/2005-10-23-the-green-owl.png[width=100%]
+
 
 == Penciling
 
-Refer to the thumbnails
+Refer to the thumbnails. Draw with a light touch. Get the foundation right, before adding details
 
-Draw with a light touch
+image:images/CyborgInfiltrationThwarted_pencils.png[]
 
-Get the foundation right, before adding details
 
 == Drawing Characters
 
 * Expressions
-* Pose: have your characters doing something.
+* Poses: have your characters doing something.
 
 == Inks
 
-When you are done, make it darker.
+Make it darker. Permanent marker, brush or pen
 
-* Heavier Pencil
-* Ink
-** permanent marker, brush or pen
+image:images/CyborgInfiltrationThwarted_inks.png[]
 
-WARNING: Make sure you ink doesn't bleed through and ruin the table. Use a clipboard or cardboard.
+== Caution About Permanent Ink
+
+WARNING: Make sure you ink doesn't bleed through and ruin the table. 
+
+Use a clipboard or cardboard under your paper.
 
 == Color?
 
-* Water Colors
-* Markers: Copic
-* Colored Pencils
+Water Colors, Markers: Copic, Colored Pencils
 
+image:images/CyborgInfiltrationThwarted.png[]
 
 == Step 3: Sharing
 
-* Sharing is the 21st century way to publish
+Sharing is the 21st century way to publish
 
 == Social Media
 
@@ -187,7 +216,9 @@ _(early turn of the century sites)_
 
 == Snap or Scan
 
-Just use your phone to take a picture and share it on Facebook or Twitter
+Just use your phone to take a picture and
+
+share it on Facebook or Twitter
 
 TIP: You might want to get a flatbed scanner.
 
@@ -202,7 +233,7 @@ King Features is one of the world's largest syndicates.
 
 Physically mail them to NY, wait 8 - 12 weeks .
 
-info: link:http://kingfeatures.com/contact-us/submission-guidelines/[King Features submission guidelines]
+info: link:http://kingfeatures.com/contact-us/submission-guidelines/[KingFeatures.com submission guidelines]
 
 == Web Comics
 
@@ -210,15 +241,17 @@ info: link:http://kingfeatures.com/contact-us/submission-guidelines/[King Featur
 * Keep 6 weeks ahead
 * Be faithful to post a comic on schedule
 
+image:images/p-p-pickels.jpg[]
+
 == Make Comics
 
 You can do it!
 
 == Questions
 
-I'll be around for a while, please stick 
+I'll be around for a while, please stick around and feel free to ask questions. - Ted Bergeron
 
-around and feel free to ask questions.
+image:images/2006-05-13-kitchen-sponges.png[width=100%]
 
-Ted Bergeron
+
 
