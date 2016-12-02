@@ -1,0 +1,243 @@
+= Tips for Making Comics
+:revealjs_theme: beige
+:revealjs_progress: true
+:revealjs_slideNumber: true
+:icons: font
+
+== Tips for Making Comics
+
+by Ted Bergeron
+
+* icon:twitter[role=blue] @TedBergeron1
+* icon:globe[role=blue] BeeBot.com
+
+== Question
+
+Why do cows wear bells?
+ 
+== Answer
+
+Their horns don't work.
+
+== Comics
+
+image:images/TLAPD-2015-colors.png[]
+
+
+== What the future needs?
+
+You know what the future needs?
+
+TIP: It needs new stories and it needs *you* to make them.
+
+== Pigeon Net
+
+image:images/PigeonNet001.png[height=600]
+
+== T.V.
+
+With all the reality shows I think TV is scraping the bottom of the barrel.
+
+TIP: Write a comicbook that is a sitcom.
+Think of each 22 page comic book like a 22 minute episode of a sitcom.
+
+== Hollywood
+
+Look at all the movies made from comic books right now!
+
+== Great heros like Superman and Tarzan... 
+
+* How many more remakes of Tarzan is Hollywood going to make?
+* Hollywood is scraping the bottom of the barrel too.
+* They seem to be out of ideas.
+
+== Original Characters
+
+TIP: Create your own original characters. 
+The world needs new characters.
+
+== Teeny Tiny Toads
+
+image:images/TeenyTinyToads-two-characte.jpg[height=600]
+
+== Teeny Tiny Toads
+
+image:images/2016-10-14-19.39.15crop.jpg[]
+
+== Teeny Tiny Toads
+
+image:images/elf-1toad-colors3.jpg[height=600]
+
+== Tools
+
+You need a pencil (or maybe just your phone)
+
+* Writer? Composition notebook
+* Artist? Sketchbook
+
+TIP: Make marks in them *everyday*!
+
+== Quote: Jake Parker
+
+icon:quote-left[2x, role=maroon]  _Fill up a sketchbook every month._
+
+== Everyday
+
+TIP: Get in a habit of writing or sketching everyday.
+
+image:images/2016-11-02 20.22.45.jpg[height=600]
+
+
+== Using a Sketchbook
+
+TIP: Draw on one side so ink doesn't ruin art on back.
+
+
+
+== No Standard Script Format
+
+TIP: Here's my easy format for writing a full script
+
+pg #1
+
+* panel 1 - we see two people going up a hill.
+** Jack: Did you hear that?
+** Jill: What was it?
+* panel 2
+* panel 3
+
+== Quote: Brian Michael Bendis 
+
+icon:quote-left[2x, role=maroon]  _95% of the artists he works with want a 'full script'._
+
+
+== TIP: One action per panel
+
+image:images/WatchYourStepColor.jpg[height=600]
+
+== Quote: Frank Miller 
+
+icon:quote-left[2x, role=maroon]  _Describe what we are looking at._
+
+e.g. panel 1 - *We see* a tiny toad leaping off a mushroom into a bed of soft moss.
+
+TIP: "Show don't tell".
+Like writing a movie script.
+
+
+
+== Quote: Kurt Busiek 
+
+icon:quote-left[2x, role=maroon]  _Ask the artist for a wish list of what they want to draw. It's a collaboration._
+
+== Snoopy fired from MetLife
+
+image:images/SnoopyFired-2016-10-21-18.3.jpg[height=600]
+
+After 31 years at MetLife.
+
+
+
+== Quote: Brian Michael Bendis 
+
+icon:quote-left[2x, role=maroon]  _Write for one person: your artist._
+
+_If you don't have an artist already, pick one you like and really study their work._
+
+_Look how much room Will Eisner leaves for dialog. 
+Look how he does expressions._
+
+_Maybe the artist will do such a great job with an expression that you can remove the dialog.
+The picture says it all._
+
+
+== Writing Class at PCC Portland
+
+TIP: Brian Michael Bendis and David F. Walker are teaching a class on writing comics at PCC in Portland.
+
+
+
+
+
+== Quote: Terry Moore 
+
+icon:quote-left[2x, role=maroon]  _It's a people business._
+
+TIP: Learn to collaborate
+
+
+
+
+== Making money
+
+If you are creating comics at least once a month
+
+* link:http://www.webtoons.com/en/[WebToons.com]
+* link:https://www.patreon.com/[Patreon.com]
+
+== Self Publishing
+
+Use social media: Twitter, FB, Tumbler...
+
+Once you have a least a *few hundred followers*, you'll be ready to launch a KickStarter campaign.
+
+* link:https://www.kickstarter.com/[KickStarter.com]
+
+
+== What do creators earn?
+
+[options="header,footer"]
+|====
+|Job | Mainstream | Indie | 22 page book
+|Script | $80 - $100 | $25 - $100 | $550 - $2200
+|Covers | $600 - $700 | $200 - $500 | $200 - $700
+|Line Art | $200 - $380 | $100 - $250 | $2200 - $8360
+|====
+
+
+== What do creators earn? (con't)
+
+[options="header,footer"]
+|====
+|Job | Mainstream | Indie | 22 page book
+|Colors | $80 - $135 | $20 - $80 | $440 - $2970
+|Colors (after flats) | $65 - $120 | $10 - $70 | $220 - $2640
+|Lettering | $20 - $25 | $10 - $20 | $220 - $500
+|====
+
+== Oregon Minimum Wage 
+
+$9.75 / hr = $20,280 / yr
+
+== Starting Indie making minimum
+
+* Writing: $550 / book ... need 37 per year (3 / mon)
+* Pencils/Inks: $2200 / book ... need 10 per year ( 1 / mon)
+* Lettering: $220 / book ... need 92 per year (8 / mon)
+
+
+
+== Word Balloons
+
+TIP: Make better word balloons
+
+
+== Adventure Yak
+
+image:images/AdventureYak-color.png[height=600]
+
+== Quote: Jake Parker 
+
+icon:quote-left[2x, role=maroon]  _Finished not perfect!_
+
+
+
+== Baleen, it works!
+
+image:images/GrayWhaleComicStrip2016.jpg[]
+
+== Ted Bergeron
+
+* icon:twitter[role=blue] @TedBergeron1
+* icon:globe[role=blue] BeeBot.com
+

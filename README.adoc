@@ -1,3 +1,7 @@
 = README
 
 All about making and sharing comics
+
+
+* link:tedbergeron.github.io/MakingComics/[Create a Comic Strip] slide deck from NWCF 2015
+* link:tedbergeron.github.io/MakingComics/Tips2016.html[Tips for Making Comics] 2016
